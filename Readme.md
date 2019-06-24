@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE: ASPxGridView - how to implement keyboard navigation
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e998)**
+<!-- run online end -->
 
 
 <p><strong>This example is now obsolete. Use the approach illustrated in the </strong><a href="https://www.devexpress.com/Support/Center/p/E2003">E2003: Using keyboard for ASPxGridView pages navigation</a><strong> example instead.</strong></p><p>This is the current workaround for the AS16053 request.<br />
