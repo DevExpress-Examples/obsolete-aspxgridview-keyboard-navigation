@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E998)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -9,9 +5,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE: ASPxGridView - how to implement keyboard navigation
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e998)**
-<!-- run online end -->
 
 
 <p><strong>This example is now obsolete. Use the approach illustrated in the </strong><a href="https://www.devexpress.com/Support/Center/p/E2003">E2003: Using keyboard for ASPxGridView pages navigation</a><strong> example instead.</strong></p><p>This is the current workaround for the AS16053 request.<br />
